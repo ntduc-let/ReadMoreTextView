@@ -18,7 +18,7 @@ Include this in your app `build.gradle`
 ```
 dependencies {
     // Other dependencies
-    implementation 'com.github.ntduc-let:ReadMoreTextVie:1.0.0'
+    implementation 'com.github.ntduc-let:ReadMoreTextView:1.0.0'
 }
 ```
 
